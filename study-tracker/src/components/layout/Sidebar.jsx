@@ -40,7 +40,7 @@ export default function Sidebar({ open, onClose }) {
               <img
                 scr ="/logo.png"
                 alt = "RottenGrid Logo"
-                classname = "h-8 w-8 rounded-lg object-contain"
+                classname = "h-8 w-8 object-contain"
                 />
             </div>
             <span className="text-base font-semibold text-zinc-900 dark:text-zinc-100">
