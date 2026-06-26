@@ -63,7 +63,7 @@ export default function Dashboard() {
       <div className="flex flex-col gap-1 sm:flex-row sm:items-center sm:justify-between">
         <div>
           <h2 className="text-2xl font-semibold text-zinc-900 dark:text-zinc-100">
-            Welcome back 👋
+            Welcome
           </h2>
           <p className="text-sm text-zinc-500 dark:text-zinc-400">
             Here's where your exam prep stands today.
