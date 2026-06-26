@@ -40,7 +40,7 @@ export default function Sidebar({ open, onClose }) {
               S
             </div>
             <span className="text-base font-semibold text-zinc-900 dark:text-zinc-100">
-              Studia
+              RottenGrid
             </span>
           </div>
           <button onClick={onClose} className="text-zinc-400 lg:hidden">
