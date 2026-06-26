@@ -38,8 +38,8 @@ export default function Sidebar({ open, onClose }) {
           <div className="flex items-center gap-2">
             <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-zinc-900 text-sm font-bold text-white dark:bg-white dark:text-zinc-900">
               <img
-                scr ="/logo.jpg"
-                alt ="RottenGrid Logo"
+                scr ="/logo.png"
+                alt ="Logo"
                 classname = "h-full w-full object-cover"
                 />
             </div>
