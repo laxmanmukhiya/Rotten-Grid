@@ -39,7 +39,8 @@ export default function Sidebar({ open, onClose }) {
             <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-zinc-900 text-sm font-bold text-white dark:bg-white dark:text-zinc-900">
               <img
                 scr ="/logo.png"
-                classname = "h-full w-full object-cover"
+                alt = "RottenGrid Logo"
+                classname = "h-8 w-8 rounded-lg object-contain"
                 />
             </div>
             <span className="text-base font-semibold text-zinc-900 dark:text-zinc-100">
