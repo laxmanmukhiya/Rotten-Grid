@@ -36,11 +36,11 @@ export default function Sidebar({ open, onClose }) {
       >
         <div className="mb-8 flex items-center justify-between px-2">
           <div className="flex items-center gap-2">
-            <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-zinc-900 text-sm font-bold text-white dark:bg-white dark:text-zinc-900">
+            <div className="flex h-8 w-8 items-center justify-center >
               <img
-                scr ="/logo.png"
+                src= "/logo.png "
                 alt = "RottenGrid Logo"
-                classname = "h-8 w-8 object-contain"
+                className = "h-8 w-8 object-contain"
                 />
             </div>
             <span className="text-base font-semibold text-zinc-900 dark:text-zinc-100">
