@@ -38,7 +38,7 @@ export default function Sidebar({ open, onClose }) {
           <div className="flex items-center gap-2">
             <div className="flex h-8 w-8 items-center justify-center >
               <img
-                src= "/logo.png "
+                src= "/logo.png"
                 alt = "RottenGrid Logo"
                 className = "h-8 w-8 object-contain"
                 />
